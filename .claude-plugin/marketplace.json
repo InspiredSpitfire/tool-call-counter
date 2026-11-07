@@ -1,0 +1,13 @@
+{
+  "name": "inspired-spitfire-mods",
+  "description": "Mods by Inspired Spitfire for Claude Code.",
+  "owner": {
+    "name": "Inspired Spitfire"
+  },
+  "plugins": [
+    {
+      "name": "tool-call-counter",
+      "source": "./"
+    }
+  ]
+}

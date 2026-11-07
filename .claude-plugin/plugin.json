@@ -1,0 +1,8 @@
+{
+  "name": "tool-call-counter",
+  "version": "0.1.0",
+  "description": "Counts every tool call of the current turn and shows the running count above the prompt; past 10 it turns red and asks whether you want to check in.",
+  "author": { "name": "Inspired Spitfire" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
